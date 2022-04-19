@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayasmita Sahu</h1>
 <h3 align="center">A passionate Full-Stack web developer from India</h3>
-<img height=500px  width=100% src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" alt="jayasmita12" />
+<img height=600px  width=100% src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" alt="jayasmita12" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayasmita12&label=Profile%20views&color=0e75b6&style=flat" alt="jayasmita12" /> </p>
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
