@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayasmita Sahu</h1>
 <h3 align="center">An aspiring full-stack web developer with an expertise in MERN stack Self motivated,confident and curious to build user centric websites.Looking ahead for challenging opportunities and working in a challenging environment.</h3>
-
+<img src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" alt="jayasmita12" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayasmita12&label=Profile%20views&color=0e75b6&style=flat" alt="jayasmita12" /> </p>
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
