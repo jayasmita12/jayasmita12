@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jayasmita-sahu-portfolio.netlify.app](https://jayasmita-sahu-portfolio.netlify.app)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_4HpJrkPNkFulbkSm1vnCIgawXKYnEEA/view?usp=sharing] (Resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_4HpJrkPNkFulbkSm1vnCIgawXKYnEEA/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
