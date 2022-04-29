@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **jayasmitasahu487448@gmail.com**
 
+-  👨‍💻 All of my projects are available at [https://jayasmita-sahu-portfolio.netlify.app](https://jayasmita-sahu-portfolio.netlify.app)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jayasmita-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayasmita-sahu" height="30" width="40" /></a>
