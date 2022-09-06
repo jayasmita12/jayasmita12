@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jayasmitasahu487448@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://jayasmita-sahu-portfolio.netlify.app](https://jayasmita-sahu-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://portfolio-seven-mu-49.vercel.app/](https://portfolio-seven-mu-49.vercel.app/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_4HpJrkPNkFulbkSm1vnCIgawXKYnEEA/view?usp=sharing](Resume)
 
